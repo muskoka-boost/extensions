@@ -1,4 +1,4 @@
-# Muskoka Digital Boost: Browser Extensions
+# Northvault Labs: Browser Extensions
 
 Privacy policies:
 
