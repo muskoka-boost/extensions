@@ -7,6 +7,6 @@ Privacy policies:
 - [TranscriptVault for Intercom](transcriptvault-intercom-privacy.html)
 - [TicketVault for Zendesk](ticketvault-zendesk-privacy.html)
 
-Support: hubscraper@gmail.com
+Support: northvaultlabs@gmail.com
 
 These extensions are independent products and are not affiliated with or endorsed by Xero, HubSpot, Intercom or Zendesk.

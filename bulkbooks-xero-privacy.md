@@ -4,7 +4,7 @@ _Last updated: 10 October 2026_
 
 BulkBooks for Xero ("BulkBooks", "we") is a Chrome extension that helps bookkeepers download invoice and bill PDFs and file attachments from their Xero organisations. BulkBooks is an independent product and is **not affiliated with, endorsed by or sponsored by Xero Limited**.
 
-**Publisher:** Northvault Labs, Ontario, Canada. Contact: hubscraper@gmail.com.
+**Publisher:** Northvault Labs, Ontario, Canada. Contact: northvaultlabs@gmail.com.
 
 ## Summary
 
@@ -43,7 +43,7 @@ We don't collect analytics, telemetry, crash reports, browsing history or the co
 - **Settings → Clear all local BulkBooks data** removes preferences and tokens. Uninstalling the extension removes all extension storage.
 - ZIP files you download are yours, on your computer. Keep them secure, because they contain financial documents.
 - You can also remove BulkBooks' access at any time from Xero (Settings → Connected apps).
-- To delete your ExtensionPay customer record, contact us at hubscraper@gmail.com.
+- To delete your ExtensionPay customer record, contact us at northvaultlabs@gmail.com.
 
 ## Chrome Web Store Limited Use
 
@@ -59,4 +59,4 @@ We'll update this page and the "Last updated" date if our practices change. Mate
 
 ## Contact
 
-hubscraper@gmail.com
+northvaultlabs@gmail.com

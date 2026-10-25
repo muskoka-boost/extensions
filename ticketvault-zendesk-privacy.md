@@ -59,6 +59,6 @@ If we change this policy, we'll update the date above and, for material changes,
 
 ## 9. Contact
 
-Questions or requests: **hubscraper@gmail.com**
+Questions or requests: **northvaultlabs@gmail.com**
 
 TicketVault is an independent product and is not affiliated with, endorsed by, or sponsored by Zendesk, Inc.

@@ -44,4 +44,4 @@ The extension is a business tool and is not directed at children under 13 (or 16
 If this policy changes, we will update the "Last updated" date above and, for material changes, note it in the extension's release notes.
 
 ## Contact
-Questions or requests: **hubscraper@gmail.com**
+Questions or requests: **northvaultlabs@gmail.com**

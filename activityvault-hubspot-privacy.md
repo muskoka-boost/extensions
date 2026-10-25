@@ -64,4 +64,4 @@ ActivityVault is a business tool and is not directed at children under 13.
 If this policy changes, we will update the "Last updated" date and, for material changes, note them in the extension's Chrome Web Store listing.
 
 ## Contact
-Questions or deletion requests: **hubscraper@gmail.com**
+Questions or deletion requests: **northvaultlabs@gmail.com**
